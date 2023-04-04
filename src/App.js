@@ -5,12 +5,13 @@ import Counter from './components/Counter';
 
 function App() {
   return (
-    <React.Fragment>
+    <>
     <div className="App">
       <Counter/>
     </div>
-    <h1>Hi</h1>
-    </React.Fragment>
+    <h1>hi</h1>
+    </>
+    
     
     
   );
